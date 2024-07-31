@@ -1,6 +1,6 @@
 ---
 title: Software Engineer
-date: 1990 - Present
+date: 2023 - Present
 url: http://ropibbe.nf/savadru
 location: Los Angeles, California
 org: Los Angeles Police Department (LAPD)

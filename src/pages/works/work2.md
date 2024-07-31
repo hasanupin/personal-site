@@ -1,22 +1,24 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Software Engineer
+date: 2021 - 2023
+url: https://mekari.com/
+location: Jakarta, Indonesia
+org: PT Mid Solusi Nusantara (Mekari)
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Software Engineering",
+    "Time Attendance",
+    "HR Technology",
+    "Product Development",
+    "Agile Methodologies",
+    "Cross-functional Collaboration",
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Developed and maintained the time attendance module, ensuring accurate tracking of employee work hours, leave, and overtime across various industries.
+- Implemented advanced features such as biometric integration, geolocation tracking, and real-time data synchronization to enhance the functionality and reliability of the time attendance system.
+- Led the design and development of user-friendly interfaces and reporting tools, providing HR managers with actionable insights and streamlined workflows.
+- Collaborated with product managers, UX designers, and other engineers to gather requirements, define project scope, and deliver high-quality software solutions on time.
+- Applied best practices in software development, including code reviews, automated testing, and continuous integration, to improve code quality and system performance.
+- Worked closely with the customer support team to troubleshoot issues, gather feedback, and implement enhancements based on user needs and market trends.
+- Utilized Agile methodologies to manage project timelines, prioritize tasks, and ensure iterative delivery of features, contributing to the overall success of the product.

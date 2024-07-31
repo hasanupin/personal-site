@@ -385,7 +385,7 @@ const $$Astro$1 = createAstro();
 const $$Container = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$1, $$props, $$slots);
   Astro2.self = $$Container;
-  const works = await Astro2.glob(/* #__PURE__ */ Object.assign({"../pages/works/work1.md": () => import('../chunks/work1_Cc18bw7-.mjs').then(n => n._),"../pages/works/work2.md": () => import('../chunks/work2_CbisJycv.mjs').then(n => n._)}), () => "../pages/works/*.md");
+  const works = await Astro2.glob(/* #__PURE__ */ Object.assign({"../pages/works/work1.md": () => import('../chunks/work1_BMN_oCcG.mjs').then(n => n._),"../pages/works/work2.md": () => import('../chunks/work2_CbisJycv.mjs').then(n => n._)}), () => "../pages/works/*.md");
   const projects = await Astro2.glob(/* #__PURE__ */ Object.assign({"../pages/projects/aypglobalpay.md": () => import('../chunks/aypglobalpay_C2v85vI6.mjs').then(n => n._),"../pages/projects/aypjuztalent.md": () => import('../chunks/aypjuztalent_NnPtd9PE.mjs').then(n => n._)}), () => "../pages/projects/*.md");
   const studies = await Astro2.glob(/* #__PURE__ */ Object.assign({"../pages/studies/studie1.md": () => import('../chunks/studie1_pcYAS4xL.mjs').then(n => n._)}), () => "../pages/studies/*.md");
   await Astro2.glob(/* #__PURE__ */ Object.assign({"../pages/certificates/backend2022.md": () => import('../chunks/backend2022_BijVDP7t.mjs').then(n => n._)}), () => "../pages/certificates/*.md");

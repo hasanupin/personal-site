@@ -1,13 +1,13 @@
 /* empty css                         */
 import { c as createComponent, r as renderTemplate, m as maybeRenderHead, u as unescapeHTML } from './astro/server_b58aT3ap.mjs';
 
-const html = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>";
+const html = "";
 
-				const frontmatter = {"title":"The Crew","date":"11/2022 - Present","url":"http://em.gl/giw","url_name":"em.gl"};
-				const file = "/Users/hasanupin/www/test-project/astro-cv-esquelete/src/pages/blogs/home-mmouzo.md";
-				const url = "/blogs/home-mmouzo";
+				const frontmatter = {"title":"Bachelor of Information System","location":"Malang, East Java, Indonesia","url":"https://stimata.ac.id/","institute":"STMIK Pradnya Paramita","date":"2014-2021","tags":["Informatino System","Software Engineering","Technology Information"]};
+				const file = "/Users/hasanupin/www/test-project/astro-cv-esquelete/src/pages/studies/studie1.md";
+				const url = "/studies/studie1";
 				function rawContent() {
-					return "\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n";
+					return "";
 				}
 				function compiledContent() {
 					return html;

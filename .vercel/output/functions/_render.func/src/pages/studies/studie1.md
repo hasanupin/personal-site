@@ -1,15 +1,13 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor of Information System
+location: Malang, East Java, Indonesia
+url: https://stimata.ac.id/
+institute: STMIK Pradnya Paramita
+date: 2014-2021
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Informatino System",
+    "Software Engineering",
+    "Technology Information"
   ]
 ---

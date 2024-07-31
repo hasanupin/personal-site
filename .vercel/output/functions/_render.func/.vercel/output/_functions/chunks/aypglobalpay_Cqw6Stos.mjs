@@ -1,13 +1,13 @@
 /* empty css                         */
 import { c as createComponent, r as renderTemplate, m as maybeRenderHead, u as unescapeHTML } from './astro/server_b58aT3ap.mjs';
 
-const html = "";
+const html = "<p>An all-in-one platform that uses advanced data analytics to ensure faster hiring, better decision-making, and easier management. Do business across countries with convenience, and grow with AYP!</p>";
 
-				const frontmatter = {"title":"Advanced SWAT Tactics and Leadership Training","location":"FBI Academy","url":"http://ni.sb/mehanad","institute":"FBI Academy","date":"1975-1980","tags":["Conflict Resolution","Strategic Planning","Risk Assessment","Firearms Training","Emergency Response"]};
-				const file = "/Users/hasanupin/www/test-project/astro-cv-esquelete/src/pages/studies/studie2.md";
-				const url = "/studies/studie2";
+				const frontmatter = {"title":"AYP Global Pay","url":"https://app.ayp-group.com/staff/sign-in","tags":["react","laravel","MySQL","Lambda","Serverless"],"date":"2022 - Now"};
+				const file = "/Users/hasanupin/www/test-project/astro-cv-esquelete/src/pages/projects/aypglobalpay.md";
+				const url = "/projects/aypglobalpay";
 				function rawContent() {
-					return "";
+					return "\nAn all-in-one platform that uses advanced data analytics to ensure faster hiring, better decision-making, and easier management. Do business across countries with convenience, and grow with AYP!\n";
 				}
 				function compiledContent() {
 					return html;

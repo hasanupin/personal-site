@@ -3,7 +3,7 @@ import { c as createComponent, r as renderTemplate, m as maybeRenderHead, u as u
 
 const html = "<ul>\n<li>Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.</li>\n<li>Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.</li>\n<li>Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.</li>\n<li>Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.</li>\n<li>Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.</li>\n</ul>";
 
-				const frontmatter = {"title":"Senior Detective","date":"1990 - Present","url":"http://ropibbe.nf/savadru","location":"Los Angeles, California","org":"Los Angeles Police Department (LAPD)","tags":["Law Enforcement","Police Work","Tactical Operations","Case Management"]};
+				const frontmatter = {"title":"Software Engineer","date":"1990 - Present","url":"http://ropibbe.nf/savadru","location":"Los Angeles, California","org":"Los Angeles Police Department (LAPD)","tags":["Law Enforcement","Police Work","Tactical Operations","Case Management"]};
 				const file = "/Users/hasanupin/www/test-project/astro-cv-esquelete/src/pages/works/work1.md";
 				const url = "/works/work1";
 				function rawContent() {
